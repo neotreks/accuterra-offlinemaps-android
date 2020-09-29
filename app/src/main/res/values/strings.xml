@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AccuTerraOfflineMaps</string>
+    <string name="create_cache">Create Cache</string>
+    <string name="cancel">Cancel</string>
+</resources>
